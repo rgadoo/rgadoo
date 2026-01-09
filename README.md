@@ -78,14 +78,6 @@ A collection of production-ready projects demonstrating:
 - **Email**: rgadoo@gmail.com
 - **LinkedIn**: [Rakesh Gadoo](https://www.linkedin.com/in/rakesh-gadoo-22386a18)
 
-## 🎯 Open to Opportunities
-
-Interested in:
-- Contract and fractional roles
-- Full-time positions
-- Consulting opportunities
-- Open source contributions
-
 ---
 
 ⭐️ From [rgadoo](https://github.com/rgadoo)

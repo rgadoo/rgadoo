@@ -71,8 +71,7 @@ A comprehensive collection of production-ready and prototype projects demonstrat
 
 - **Portfolio**: [Portfolio Showcase](https://github.com/rgadoo/portfolio-showcase)
 - **Email**: rgadoo@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) <!-- Update with your LinkedIn -->
-- **Website**: [Your Website](https://yourwebsite.com) <!-- Optional: Add if you have one -->
+- **LinkedIn**: [Rakesh Gadoo](https://www.linkedin.com/in/rakesh-gadoo-22386a18)
 
 ## 💡 Currently
 
